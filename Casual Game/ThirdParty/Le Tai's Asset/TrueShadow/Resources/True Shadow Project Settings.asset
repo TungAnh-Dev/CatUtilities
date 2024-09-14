@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a360fd8db0e641b1a650910279a4ce4b, type: 3}
+  m_Name: True Shadow Project Settings
+  m_EditorClassIdentifier: 
+  useGlobalAngleByDefault: 0
+  globalAngle: 90
+  showQuickPresetsButtons: 1
+  quickPresets:
+  - name: xs
+    size: 1
+    spread: 0
+    distance: 1
+    alpha: 0.15
+  - name: md
+    size: 8
+    spread: 0
+    distance: 7
+    alpha: 0.11
+  - name: outline
+    size: 1
+    spread: 0.906
+    distance: 0
+    alpha: 1
+  - name: xl
+    size: 1.5
+    spread: 0.601
+    distance: 1.39
+    alpha: 1
+  - name: sm
+    size: 2.32
+    spread: 0.919
+    distance: 1.39
+    alpha: 1
+  - name: xxl
+    size: 4.07
+    spread: 0.919
+    distance: 1.42
+    alpha: 1

@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ab9cf3a292780a4ba3640d286aaf84e, type: 3}
+  m_Name: MusicConfig
+  m_EditorClassIdentifier: 
+  sounds:
+  - description: Background
+    type: 0
+    clip: {fileID: 8300000, guid: 10cc5ef769fc89a47b847e9b5d3378d5, type: 3}
+    volume: 1
+  - description: GamePlay
+    type: 1
+    clip: {fileID: 8300000, guid: 10cc5ef769fc89a47b847e9b5d3378d5, type: 3}
+    volume: 0.6
+  - description: BasketballBGM
+    type: 2
+    clip: {fileID: 8300000, guid: a498425940a24d84da53bd0d6587070d, type: 3}
+    volume: 0.4
+  - description: TennisBGM
+    type: 3
+    clip: {fileID: 8300000, guid: 8103899a8f4f77b4b895b06ed4914a24, type: 3}
+    volume: 0.4
+  - description: SoccerBGM
+    type: 4
+    clip: {fileID: 8300000, guid: 2a2fb26180fcda744baf368d22ab77a6, type: 3}
+    volume: 0.4
+  - description: SoccerBGM
+    type: 5
+    clip: {fileID: 8300000, guid: 592f467a6e7104897acf98a116bc9110, type: 3}
+    volume: 0.4
+  - description: SoccerBGM
+    type: 6
+    clip: {fileID: 8300000, guid: 171a8a24ab1b7fc47bba869a23fa4ee4, type: 3}
+    volume: 0.4
